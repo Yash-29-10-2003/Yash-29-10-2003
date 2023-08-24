@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **yashsinghentrance@gmail.com**
 
-- ⚡ Fun fact **neetcode is goated.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
