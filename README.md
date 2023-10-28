@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Singh</h1>
-<h3 align="center">19</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-29-10-2003&label=Profile%20views&color=0e75b6&style=flat" alt="yash-29-10-2003" /> </p>
 
