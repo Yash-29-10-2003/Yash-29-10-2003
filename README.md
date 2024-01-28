@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yash-29-10-2003](https://github.com/Yash-29-10-2003)
 
-- 💬 Ask me about **python , data structures.**
-
 - 📫 How to reach me **yashsinghentrance@gmail.com**
 
 
