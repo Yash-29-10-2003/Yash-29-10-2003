@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-29-10-2003&label=Profile%20views&color=0e75b6&style=flat" alt="yash-29-10-2003" /> </p>
 
-- 🔭 I’m currently working on [Java Programming and DSA.](https://leetcode.com/yashsingh2003/)
+- 🔭 I’m currently working on streamlit apps.
 
 - 🌱 I’m currently learning **Java Programming and DSA.**
 
