@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on streamlit apps.
 
-- 🌱 I’m currently learning **Java Programming and DSA.**
+- 🌱 I’m currently learning **Data Science , Java and DSA**
 
 - 📫 How to reach me **yashsinghentrance@gmail.com**
 
