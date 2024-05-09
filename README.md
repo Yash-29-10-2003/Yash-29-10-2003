@@ -2,9 +2,9 @@
 <h3 align="center"></h3>
 
 
-- 🔭 I’m currently working on streamlit apps.
+- 🔭 I’m currently working on datascience apps.
 
-- 🌱 I’m currently learning **Data Science , Java and DSA**
+- 🌱 I’m currently learning **System Design & DSA**
 
 - 📫 How to reach me **yashsinghentrance@gmail.com**
 
