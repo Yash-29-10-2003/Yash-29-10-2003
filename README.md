@@ -2,9 +2,9 @@
 <h3 align="center"></h3>
 
 
-- 🔭 I’m currently working on datascience apps.
+- 🔭 I’m currently working on learning Spring.
 
-- 🌱 I’m currently learning **System Design & DSA**
+- 🌱 I’m currently learning **Spring & DSA**
 
 - 📫 How to reach me **yashsinghentrance@gmail.com**
 
